@@ -198,6 +198,7 @@ span{
     width:23%;
     border:2px solid black;
     background-color: white;
+    box-shadow: 0 12px 30px black;
     padding: 20px 0px 15px ;
     margin-bottom: 20px;
 
